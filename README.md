@@ -32,23 +32,11 @@ if any other person try to decrypt the your text it will simply show a message `
 <br><br>
 
 **# Website Screenshort**
-<div style="background-color:rgba(0, 0, 0, 0.99);text-align:center; vertical-align: middle;   padding-top: 20px;">
-
-<p align="center" style="color: white">
 
  <img src="Images/web3.gif"  wiinstadth="500" height="300">
 <br><br>
-</p>
-</div>
 
-<center>
-<div style="background-color:rgba(0, 0, 0, 0.99);text-align:center; vertical-align: middle;   padding-top: 20px;">
 
-<p align="center" style="color: white">
 
  <img src="Images/qoute.JPG"  wiinstadth="500" height="50">
-<br><br>
-</p>
-</div>
 
-</center>
