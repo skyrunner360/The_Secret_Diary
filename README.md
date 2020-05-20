@@ -19,9 +19,10 @@ Android device with minimum `Android version(4.3 Jelly Bean)`
 
  <img src="Images/appgif.gif" alt=" logo" wiinstadth="500" height="500">
 
-
+<br><br>
 **#what if phone will lost ?**
- At that time `The_Secret_Diary` website will help you.
+
+At that time `The_Secret_Diary` website will help you.
  
 You have to simply visit the site and follow this Steps.
 <img src="Images/step.JPG"  wiinstadth="100" height="50">
