@@ -22,7 +22,7 @@ Android device with minimum `Android version(4.3 Jelly Bean)`
 <br><br>
 **#what if phone will lost ?**
 
-At that time `The_Secret_Diary` website will help you.
+At that time `The_Secret_Diary` [Website Complete hone ke baad idhar aise link laga diyo]('www.example.com') website will help you.
  
 You have to simply visit the site and follow this Steps:
 <img src="Images/step.JPG"  wiinstadth="100" height="50">
