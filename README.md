@@ -6,7 +6,7 @@
 
 # **Requirements**
 
-__ Android device with minimum `Android version(4.3 Jelly Bean)` __
+- __Android device with minimum `Android version(4.3 Jelly Bean)`__
 
 # **Features**
 * `Data Encyption using (AES):Advanced Encryption Standard`
