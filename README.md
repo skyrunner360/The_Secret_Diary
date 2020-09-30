@@ -6,9 +6,10 @@
 
 # Requirements
 
-Android device with minimum `Android version(4.3 Jelly Bean)`
+- __Android device with minimum `Android version(4.3 Jelly Bean)`__
 
 # Features
+
 * `Data Encyption using (AES):Advanced Encryption Standard`
 * `Symmetric Key`
 * `Google Authentication`
@@ -17,18 +18,19 @@ Android device with minimum `Android version(4.3 Jelly Bean)`
 
 # App Screenshort 
 
+
  <img src="Images/appgif.gif" alt=" logo" wiinstadth="500" height="500">
 
 <br><br>
 # what if phone will lost?
 
-At that time `The_Secret_Diary` website will help you.
+At that time `The_Secret_Diary` website can help you.
  
 You have to simply visit the site and follow this Steps:
 <img src="Images/step.JPG"  wiinstadth="100" height="50">
 <br>
-after that your key will Successfully removed from the database.
-if any other person try to decrypt the your text it will simply show a message `Key is removed`.
+After that your key will be Successfully removed from the database.
+Now if any other person tries to decrypt the text it will simply show a message `Key is removed`.
 <br><br>
 
 # Website Screenshort
