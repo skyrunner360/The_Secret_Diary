@@ -4,23 +4,23 @@
   </a>
 </p>
 
-**#Requirements**
+# Requirements
 
 Android device with minimum `Android version(4.3 Jelly Bean)`
 
-**# Features**
+# Features
 * `Data Encyption using (AES):Advanced Encryption Standard`
 * `Symmetric Key`
 * `Google Authentication`
 * `Firebase Database`
 * `Additional Website`
 
-**# App Screenshort** 
+# App Screenshort 
 
  <img src="Images/appgif.gif" alt=" logo" wiinstadth="500" height="500">
 
 <br><br>
-**#what if phone will lost ?**
+# what if phone will lost?
 
 At that time `The_Secret_Diary` website will help you.
  
@@ -31,7 +31,7 @@ after that your key will Successfully removed from the database.
 if any other person try to decrypt the your text it will simply show a message `Key is removed`.
 <br><br>
 
-**# Website Screenshort**
+# Website Screenshort
 
  <img src="Images/web3.gif"  wiinstadth="500" height="300">
 <br><br>
